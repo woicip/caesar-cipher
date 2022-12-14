@@ -1,0 +1,19 @@
+{
+  "name": "caesar-cipher",
+  "version": "1.0.0",
+  "description": "Caesar Cipher Encrypto & Decryptor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnwncpta/caesar-cipher.git"
+  },
+  "author": "gnwncpta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gnwncpta/caesar-cipher/issues"
+  },
+  "homepage": "https://github.com/gnwncpta/caesar-cipher#readme"
+}
